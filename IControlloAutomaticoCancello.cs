@@ -1,6 +1,6 @@
 ﻿using ControlloCancello.Definizioni;
 
-namespace ControlloCancello
+namespace GateControl
 {
 	public interface IControlloAutomaticoCancello
 	{

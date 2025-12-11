@@ -1,7 +1,7 @@
 ﻿using ControlloCancello.Definizioni;
 using System.Threading;
 
-namespace ControlloCancello
+namespace GateControl
 {
 	public class ControlloAutomaticoCancello: IControlloAutomaticoCancello
 	{
