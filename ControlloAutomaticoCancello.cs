@@ -3,7 +3,7 @@ using System.Threading;
 
 namespace GateControl
 {
-	public class ControlloAutomaticoCancello: IControlloAutomaticoCancello
+	public class ControlloAutomaticoCancello : IControlloAutomaticoCancello
 	{
 		private int stato;
 		private int statoPrecedente;
