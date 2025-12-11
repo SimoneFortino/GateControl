@@ -7,3 +7,4 @@ C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.csproj.G
 C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.csproj.CoreCompileInputs.cache
 C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.exe
 C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.pdb
+C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.GateControlForm.resources

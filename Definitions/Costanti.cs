@@ -1,4 +1,4 @@
-﻿namespace ControlloCancello.Definizioni
+﻿namespace GateControl.Definitions
 {
 	internal static class Costanti
 	{

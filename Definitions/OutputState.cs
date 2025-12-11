@@ -1,4 +1,4 @@
-﻿namespace ControlloCancello.Definizioni
+﻿namespace GateControl.Definitions
 {
 	public enum OutputState
 	{

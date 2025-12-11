@@ -1,4 +1,4 @@
-﻿using ControlloCancello.Definizioni;
+﻿using GateControl.Definitions;
 using System.Threading;
 
 namespace GateControl
