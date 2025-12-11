@@ -48,12 +48,18 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="ControlloAutomaticoCancello.cs" />
+        <Compile Include="Definizioni\Costanti.cs" />
+        <Compile Include="Definizioni\DirState.cs" />
+        <Compile Include="Definizioni\InputState.cs" />
+        <Compile Include="Definizioni\LampState.cs" />
+        <Compile Include="Definizioni\OutputState.cs" />
         <Compile Include="GateControlForm.cs">
             <SubType>Form</SubType>
         </Compile>
         <Compile Include="GateControlForm.Designer.cs">
             <DependentUpon>GateControlForm.cs</DependentUpon>
         </Compile>
+        <Compile Include="IControlloAutomaticoCancello.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
         <EmbeddedResource Include="GateControlForm.resx">
