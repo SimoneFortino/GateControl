@@ -1,0 +1,9 @@
+C:\Users\fortino.simone\RiderProjects\GateControl\bin\Debug\GateControl.exe.config
+C:\Users\fortino.simone\RiderProjects\GateControl\bin\Debug\GateControl.exe
+C:\Users\fortino.simone\RiderProjects\GateControl\bin\Debug\GateControl.pdb
+C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.csproj.AssemblyReference.cache
+C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.Properties.Resources.resources
+C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.csproj.GenerateResource.cache
+C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.csproj.CoreCompileInputs.cache
+C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.exe
+C:\Users\fortino.simone\RiderProjects\GateControl\obj\Debug\GateControl.pdb
