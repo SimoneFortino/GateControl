@@ -8,10 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57235b0c-6b3a-41d2-8cd9-3db340200e0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/StateHelper.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GateControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GateControl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GateControl.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GateControl.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GateControlForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GateControlForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GateControlForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GateControlForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GateControlForm.resx" beforeDir="false" afterPath="$PROJECT_DIR$/GateControlForm.resx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/GateControl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/GateControl.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/GateControl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/GateControl.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/GateControl.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/GateControl.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/GateControl.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/GateControl.csproj.GenerateResource.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/GateControl.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/GateControl.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/GateControl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/GateControl.pdb" afterDir="false" />
     </list>
@@ -38,6 +43,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ControlloAutomaticoCancello.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/IControlloAutomaticoCancello.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StateHelper.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -97,7 +103,7 @@
       <updated>1765448482664</updated>
       <workItem from="1765448485823" duration="5522000" />
       <workItem from="1765782315427" duration="2975000" />
-      <workItem from="1766052644583" duration="380000" />
+      <workItem from="1766052644583" duration="5493000" />
     </task>
     <task id="LOCAL-00001" summary="rebuild iniziale">
       <option name="closed" value="true" />
@@ -163,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765454010097</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit6">
+      <option name="closed" value="true" />
+      <created>1766053389596</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1766053389596</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +204,8 @@
     <MESSAGE value="commit2" />
     <MESSAGE value="commit3" />
     <MESSAGE value="commit5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit5" />
+    <MESSAGE value="commit6" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
